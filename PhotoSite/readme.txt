@@ -18,40 +18,6 @@ Features of Photo Site:
 
 
 
-Start.php: Home page for website.
-
-Register.php: Registration page for new user.
-
-Verify.php: verify the email id for registration.
-
-Login.php: login to the account if user is verified.
-
-Userhome.php: profile page for user.
-
-Alluserphotos.php: shows all photos uploaded in the website.
-
-Oneimage.php: showing single image with comment box.
-
-functions.php: all function for inserting and display images and comments.
-
-Changepass.php: for changing password using current password.
-
-Data.php: While session is start then fetch some data that use most frequently.
-
-Delete.php: delete images only by owner of image.
-
-Deleteaccount.php: delete account of users.
-
-Commentdelete.php: delete comment by owner of comment.
-
-Comments.php: Show all comments on the particular image.
-
-Forgetpass.php: if user is forgot password then it user has to enter valid email id and get email for set new password.
-
-Newpass.php: This page is open from email link to set new password if user forgot password.
-
-Logout.php: logout from the user account.
-
 
 
 
